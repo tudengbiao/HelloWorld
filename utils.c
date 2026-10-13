@@ -2,7 +2,5 @@
 
 int add(int a, int b)
 {
-	/* 合并分支 */
-	return a+b;
-
+		return a+b;
 }
