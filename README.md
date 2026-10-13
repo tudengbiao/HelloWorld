@@ -1,6 +1,1 @@
-# HelloWorld
-My first project
-
-测试是否可以使用中文。
-
-测试成功。
+# 测试其他人修改我的代码
