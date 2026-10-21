@@ -1,0 +1,10 @@
+0000000   #   i   n   c   l   u   d   e       <   s   t   d   i   o   .
+0000020   h   >  \r  \n  \r  \n   #   i   n   c   l   u   d   e        
+0000040   "   u   t   i   l   s   .   h   "  \r  \n  \r  \n   i   n   t
+0000060       m   a   i   n   (   i   n   t       a   r   g   c   ,    
+0000100   c   h   a   r   *       a   r   g   v   [   ]   )  \r  \n   {
+0000120  \r  \n           p   r   i   n   t   f   (   "   H   e   l   l
+0000140   o       W   o   r   l   d   !   \   n   "   )   ;  \r  \n    
+0000160       r   e   t   u   r   n       0   ;  \r  \n   }
+0000175
+
