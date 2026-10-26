@@ -4,9 +4,9 @@
 
 ```bash
 [root@2-0002 HelloWorld]# ls
-AUTHORS  ChangeLog  CODE_OF_CONDUCT.md  configure.ac  CONTRIBUTING.md  LICENSE  main.c  Makefile.am  NEWS  README  README.md  tmp.txt  utils.c  utils.h
+AUTHORS  ChangeLog  CODE_OF_CONDUCT.md  configure.ac  CONTRIBUTING.md  LICENSE  main.c  Makefile.am  NEWS  README  README.md  utils.c  utils.h
 
-[root@2-0002 HelloWorld]# autoreconf -i
+[root@2-0002 HelloWorld]# autoreconf -ivf
 configure.ac:2: installing './install-sh'
 configure.ac:2: installing './missing'
 Makefile.am: installing './INSTALL'
@@ -16,7 +16,7 @@ Makefile.am:     for your code, to avoid questions about which license your proj
 Makefile.am: installing './depcomp'
 
 [root@2-0002 HelloWorld]# ls
-aclocal.m4  AUTHORS  autom4te.cache  ChangeLog  CODE_OF_CONDUCT.md  configure  configure.ac  CONTRIBUTING.md  COPYING  depcomp  INSTALL  install-sh  LICENSE  main.c  Makefile.am  Makefile.in  missing  NEWS  README  README.md  tmp.txt  utils.c  utils.h
+aclocal.m4  AUTHORS  autom4te.cache  ChangeLog  CODE_OF_CONDUCT.md  configure  configure.ac  CONTRIBUTING.md  COPYING  depcomp  INSTALL  install-sh  LICENSE  main.c  Makefile.am  Makefile.in  missing  NEWS  README  README.md  utils.c  utils.h
 ```
 
 
